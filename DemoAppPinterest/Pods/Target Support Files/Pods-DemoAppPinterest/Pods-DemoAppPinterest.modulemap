@@ -1,0 +1,6 @@
+framework module Pods_DemoAppPinterest {
+  umbrella header "Pods-DemoAppPinterest-umbrella.h"
+
+  export *
+  module * { export * }
+}
